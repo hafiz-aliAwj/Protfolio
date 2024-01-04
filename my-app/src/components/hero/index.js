@@ -4,7 +4,7 @@ import Typewriter from "typewriter-effect";
 export default function Hero() {
   return (
     <div className="bg-[#040b14] text-[white] w-full h-screen flex flex-col items-start justify-center">
-      <div className="w-3/5 mx-auto">
+      <div className="w-3/4 mx-auto">
         <h1 className="text-4xl font-black ">Hafiz Ali Awj</h1>
         <div className="flex justify-start items-baseline">
           <pre className="text-sm">I'm a </pre>
